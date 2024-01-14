@@ -10,7 +10,7 @@
 - Un seul joueur gagne le partie.
 ## Plateau
 ### Bunker
-- Un bunkerest un abri
+- Un bunker est un abri
 - Un abri permet de compléter son équipement, se soigner, vendre des objets et établir son campement.
 - Un bunker protège des émissions.
 ### Lieux secrets
