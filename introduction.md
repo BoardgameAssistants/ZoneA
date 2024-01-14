@@ -8,3 +8,11 @@
 - La partie est perdue pour tous les joueurs si la pioche rumeur ou la pioche événement du Sarcophage s’épuisent.
 - Pour gagner, un joueur doit atteindre le sarcophage et réussir la carte événement.
 - Un seul joueur gagne le partie.
+## Plateau
+### Bunker
+- Un bunkerest un abri, permet de compléter son équipement, se soigner, vendre des objets et établir son campement.
+- Un bunker protège des émissions.
+### Lieux secrets
+- Un lieu secret n’est pas considéré comme un lieu extérieur.
+### Sarcophage
+- Pour y accéder, on doit posséder deux (2) secrets et utiliser l'action de lieu de la centrale.
