@@ -17,3 +17,24 @@
 - Un lieu secret n’est pas considéré comme un lieu extérieur.
 ### Sarcophage
 - Pour accéder au sarcophage, on doit posséder deux (2) secrets et utiliser l'action de lieu de la centrale.
+### Frontières
+- Une frontière est franchissable.
+### Clôtures
+- Une clôture est infranchissable.
+### Raccourcis
+- Un Raccourcis est une frontière.
+- Passer par un raccourci provoque un (1) dégât du type indiqué sur la frontière.
+### Lieux extérieurs
+- Un lieu extérieur est tout sauf un bunker, un lieu secret ou le sarcophage
+## Déroulement de la partie
+- Le jeu est constitué de plusieurs manches, qui elles-mêmes se divisent en 3 phases.
+- Le joueur avec le pion “Voix de la zone” commence la premiere phase d'une manche.
+### Phase Actions
+Deux (2) actions par joueur : se déplacer, action de lieu, résoudre une rencontre avec un jeton menace, se reposer, ouvrir un lieu secret.
+### Phase événement
+- Chaque joueur pioche une carte événement correspondant à son type de lieu.
+- La centrale, les bunkers, l'œil de Moscou et Pripyat ne possedent pas de pioche, on ignore donc la phase d’événement.
+### Phase rumeur
+- Le joueur possédant le pion "Voix de la zone" tire une carte Rumeur.
+
+
